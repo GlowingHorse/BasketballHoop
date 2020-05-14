@@ -1,7 +1,7 @@
 # Basketball Backboard
 Create a basketball backboard that can make your shot always in
 
-Youtube and Weibo have a very hot video. In simple terms, it is how to design a backboard that can make your shot always ing.
+Youtube and Weibo have a very popular video. In simple terms, it is how to design a backboard that can make your shot always ing.
 I used Python to implement the code according to the author's ideas.
 Judging from the simulation results, this backboard can achieve a perfect shot when shooting from most positions on the court.
 
