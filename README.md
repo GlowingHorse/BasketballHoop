@@ -19,6 +19,8 @@ Smooth rebound-> Linear regression model
 
 Problem analysis: In the end, my result is not as beautiful as the original video. It may be because the formula of the parabolic movement is deviated. In addition, I did not consider the motion curve of the first half of the basketball when shooting. On the whole, there are many details that can be improved. For example, the influence of the centrifugal force of the ball rotation on the ejection angle and the influence of the air resistance during the ball movement should also be considered. The algorithm for the physical characteristics is expected.
 
+------------------------------------------------------------------------------------------
+
 Youtube和微博有一个很火的视频，简单来说就是如何设计一个无论怎样投篮都能进球的篮板。
 我感觉这种基础课程的知识的应用很有意思，就用Python按照作者的思路实现了代码。
 从仿真结果来看，这个篮板可以实现从球场大多数位置投篮时的百发百中。
